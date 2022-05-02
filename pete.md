@@ -5,3 +5,6 @@ This is some general content
 ### Another smaller heading
 This content shouldn't be here
 It's wrong and needs to be removed
+### Another smaller heading
+This content shouldn't be here
+It's wrong and needs to be removed
